@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='tip-calculator.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/UJiJ3Hr.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Describe any challenges encountered while building the app.
 
