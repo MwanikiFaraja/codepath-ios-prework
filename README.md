@@ -28,8 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://drive.google.com/file/d/15KB4hmewMVn2AFo7UKKGA7_f_NGTqrgv/view' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![walkthrough](tip-calculator.gif)
+<img src='tip-calculator.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Describe any challenges encountered while building the app.
 
