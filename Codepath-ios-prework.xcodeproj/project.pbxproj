@@ -80,6 +80,7 @@
 		6650F362277AC6B3004B9BA4 = {
 			isa = PBXGroup;
 			children = (
+				6650F39E277F6DBF004B9BA4 /* README.md */,
 				6650F36D277AC6B3004B9BA4 /* Codepath-ios-prework */,
 				6650F384277AC6B4004B9BA4 /* Codepath-ios-preworkTests */,
 				6650F38E277AC6B4004B9BA4 /* Codepath-ios-preworkUITests */,
@@ -100,7 +101,6 @@
 		6650F36D277AC6B3004B9BA4 /* Codepath-ios-prework */ = {
 			isa = PBXGroup;
 			children = (
-				6650F39E277F6DBF004B9BA4 /* README.md */,
 				6650F36E277AC6B3004B9BA4 /* AppDelegate.swift */,
 				6650F370277AC6B3004B9BA4 /* SceneDelegate.swift */,
 				6650F372277AC6B3004B9BA4 /* ViewController.swift */,
