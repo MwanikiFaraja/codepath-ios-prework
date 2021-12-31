@@ -49,6 +49,7 @@
 		6650F38B277AC6B4004B9BA4 /* Codepath-ios-preworkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Codepath-ios-preworkUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6650F38F277AC6B4004B9BA4 /* Codepath_ios_preworkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Codepath_ios_preworkUITests.swift; sourceTree = "<group>"; };
 		6650F391277AC6B4004B9BA4 /* Codepath_ios_preworkUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Codepath_ios_preworkUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6650F39E277F6DBF004B9BA4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +100,7 @@
 		6650F36D277AC6B3004B9BA4 /* Codepath-ios-prework */ = {
 			isa = PBXGroup;
 			children = (
+				6650F39E277F6DBF004B9BA4 /* README.md */,
 				6650F36E277AC6B3004B9BA4 /* AppDelegate.swift */,
 				6650F370277AC6B3004B9BA4 /* SceneDelegate.swift */,
 				6650F372277AC6B3004B9BA4 /* ViewController.swift */,
